@@ -360,7 +360,7 @@
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self) - A fork of the popular discord.py for user accounts.
-- [devraza/catchtwo](https://github.com/devraza/catchtwo) - [UNMAINTAINED] A second generation, free Pokétwo autocatcher, made to stop people from wasting their money on 'premium' alternatives.
+- [devraza/catchtwo](https://github.com/devraza/catchtwo) - A second generation, free Pokétwo autocatcher, made to stop people from wasting their money on 'premium' alternatives.
 - [Team-BANERUS/poketwo-Autocatcher](https://github.com/Team-BANERUS/poketwo-Autocatcher) - Banerus poketwo autocatcher (Pokemon) is an innovative and user-friendly tool, equipped with a wide array of features. Setting it up with just one click allows you to effortlessly catch Pokémon, utili
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
