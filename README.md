@@ -111,6 +111,7 @@
 
 ## Java 
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [AbdurazaaqMohammed/AXML-Editor](https://github.com/AbdurazaaqMohammed/AXML-Editor) - Android app to edit android binary XML files (AndroidManifest.xml and layout XML files)
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
@@ -311,6 +312,7 @@
 
 ## Shell 
 
+- [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [justchokingaround/jerry](https://github.com/justchokingaround/jerry) - watch anime with automatic anilist syncing and other cool stuff
