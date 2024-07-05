@@ -231,7 +231,7 @@
 ## PHP 
 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-- [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - SMTPHub 程江统一邮件发送管理系统
+- [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - 程江统一邮件发送管理系统
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [ArdiArtani/Google-Drive-Player-Script](https://github.com/ArdiArtani/Google-Drive-Player-Script) - Grab google drive streaming links (redirector.googlevideo.com/videoplayback?..)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -243,6 +243,7 @@
 
 ## Python 
 
+- [kimocoder/OneShot](https://github.com/kimocoder/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
