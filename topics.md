@@ -744,6 +744,7 @@
 
 ## others 
 
+- [kimocoder/OneShot](https://github.com/kimocoder/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [torlye/Backloggery-enhancements](https://github.com/torlye/Backloggery-enhancements) - 
@@ -771,7 +772,7 @@
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils) - Just another GD Bypass tool!
-- [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - SMTPHub 程江统一邮件发送管理系统
+- [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - 程江统一邮件发送管理系统
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
