@@ -744,6 +744,7 @@
 
 ## others 
 
+- [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [techwithanirudh/g4f](https://github.com/techwithanirudh/g4f) - The official gpt4free repository | various collection of powerful language models
 - [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 - [kimocoder/OneShot](https://github.com/kimocoder/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
