@@ -17,6 +17,7 @@
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -244,6 +245,10 @@
 - [gaucho-matrero/altoclef](https://github.com/gaucho-matrero/altoclef) - Plays block game
 - [xorgram/xor](https://github.com/xorgram/xor) - User bot. Redefined.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+
+## bugbounty 
+
+- [Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter
 
 ## c 
 
