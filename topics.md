@@ -754,6 +754,7 @@
 
 ## others 
 
+- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [techwithanirudh/g4f](https://github.com/techwithanirudh/g4f) - The official gpt4free repository | various collection of powerful language models
 - [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
