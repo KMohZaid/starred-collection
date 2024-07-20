@@ -29,6 +29,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -245,6 +246,10 @@
 ## Pascal 
 
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
+
+## Perl 
+
+- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 
 ## PowerShell 
 
