@@ -755,10 +755,10 @@
 
 ## others 
 
+- [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [techwithanirudh/g4f](https://github.com/techwithanirudh/g4f) - The official gpt4free repository | various collection of powerful language models
-- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 - [kimocoder/OneShot](https://github.com/kimocoder/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
