@@ -115,6 +115,7 @@
 
 ## Java 
 
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [AbdurazaaqMohammed/AXML-Editor](https://github.com/AbdurazaaqMohammed/AXML-Editor) - Android app to edit android binary XML files (AndroidManifest.xml and layout XML files)
@@ -193,6 +194,7 @@
 
 ## Others 
 
+- [sometimes-archives-things/archived-things](https://github.com/sometimes-archives-things/archived-things) - 
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
@@ -254,6 +256,8 @@
 
 ## Python 
 
+- [bunnykek/kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader!
+- [ChefAdorous/warp-plus](https://github.com/ChefAdorous/warp-plus) - You can obtain unlimited WARP+ referral data on Cloudflare's 1.1.1.1 VPN.
 - [techwithanirudh/g4f](https://github.com/techwithanirudh/g4f) - The official gpt4free repository | various collection of powerful language models
 - [kimocoder/OneShot](https://github.com/kimocoder/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -326,6 +330,7 @@
 
 ## Shell 
 
+- [remo7777/T-Header](https://github.com/remo7777/T-Header) - Termux customization with your own name (termux-banner + custom PS1) and oh-my-zsh themes with plugins
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
