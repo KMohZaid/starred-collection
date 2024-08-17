@@ -161,6 +161,7 @@
 
 ## android 
 
+- [OMZigak/KKUM_ANDROID](https://github.com/OMZigak/KKUM_ANDROID) - Android를 뒤집어보겠습니다! 으으으읏! 얍! (╯°□°)╯︵ pᴉoɹpuⱯ
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
@@ -608,6 +609,7 @@
 
 ## kotlin 
 
+- [OMZigak/KKUM_ANDROID](https://github.com/OMZigak/KKUM_ANDROID) - Android를 뒤집어보겠습니다! 으으으읏! 얍! (╯°□°)╯︵ pᴉoɹpuⱯ
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
