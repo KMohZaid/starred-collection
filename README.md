@@ -313,6 +313,7 @@
 
 ## Rust 
 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [cognitive-engineering-lab/rust-book](https://github.com/cognitive-engineering-lab/rust-book) - The Rust Programming Language: Experimental Edition
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -332,6 +333,7 @@
 
 ## Shell 
 
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [remo7777/T-Header](https://github.com/remo7777/T-Header) - Termux customization with your own name (termux-banner + custom PS1) and oh-my-zsh themes with plugins
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
