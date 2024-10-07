@@ -262,6 +262,7 @@
 
 ## Python 
 
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [bunnykek/kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader!
 - [ChefAdorous/warp-plus](https://github.com/ChefAdorous/warp-plus) - You can obtain unlimited WARP+ referral data on Cloudflare's 1.1.1.1 VPN.
 - [techwithanirudh/g4f](https://github.com/techwithanirudh/g4f) - The official gpt4free repository | various collection of powerful language models
@@ -336,6 +337,7 @@
 
 ## Shell 
 
+- [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [alexjercan/hyprland.dotfiles](https://github.com/alexjercan/hyprland.dotfiles) - Minimalist config for Hyprland
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributi
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -354,6 +356,7 @@
 
 ## TypeScript 
 
+- [KazariEX/plain-shiki](https://github.com/KazariEX/plain-shiki) - Highlight your plaintext via Shiki.
 - [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [torlye/Backloggery-enhancements](https://github.com/torlye/Backloggery-enhancements) - 
