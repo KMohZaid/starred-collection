@@ -939,6 +939,7 @@
 
 ## python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
