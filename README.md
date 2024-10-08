@@ -262,6 +262,7 @@
 
 ## Python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [bunnykek/kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader!
 - [ChefAdorous/warp-plus](https://github.com/ChefAdorous/warp-plus) - You can obtain unlimited WARP+ referral data on Cloudflare's 1.1.1.1 VPN.
