@@ -54,6 +54,7 @@
 
 ## C# # 
 
+- [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
@@ -197,6 +198,7 @@
 
 ## Nix 
 
+- [qwbarch/nix-config](https://github.com/qwbarch/nix-config) - My personal NixOS configuration
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku
 
