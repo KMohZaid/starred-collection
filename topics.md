@@ -812,6 +812,8 @@
 
 ## others 
 
+- [qwbarch/nix-config](https://github.com/qwbarch/nix-config) - My personal NixOS configuration
+- [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [KazariEX/plain-shiki](https://github.com/KazariEX/plain-shiki) - Highlight your plaintext via Shiki.
