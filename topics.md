@@ -812,6 +812,8 @@
 
 ## others 
 
+- [Andrey0189/nixos-config](https://github.com/Andrey0189/nixos-config) - ❄️ My nixos configuration files
+- [FruitieX/home.nix](https://github.com/FruitieX/home.nix) - Home Manager configuration files
 - [qwbarch/nix-config](https://github.com/qwbarch/nix-config) - My personal NixOS configuration
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
