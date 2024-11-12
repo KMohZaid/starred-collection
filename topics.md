@@ -561,7 +561,6 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -812,6 +811,7 @@
 
 ## others 
 
+- [Cqinux/cinux](https://github.com/Cqinux/cinux) - cqwrteur's fork of Linux kernel, rename it to Cinux
 - [Andrey0189/nixos-config](https://github.com/Andrey0189/nixos-config) - ❄️ My nixos configuration files
 - [FruitieX/home.nix](https://github.com/FruitieX/home.nix) - Home Manager configuration files
 - [qwbarch/nix-config](https://github.com/qwbarch/nix-config) - My personal NixOS configuration
