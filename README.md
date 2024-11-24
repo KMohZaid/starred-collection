@@ -208,6 +208,7 @@
 
 ## Others 
 
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [harishnkr/bsol](https://github.com/harishnkr/bsol) - grub2 blue-screen-of-life theme
 - [sometimes-archives-things/archived-things](https://github.com/sometimes-archives-things/archived-things) - 
