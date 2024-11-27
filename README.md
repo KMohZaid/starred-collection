@@ -37,6 +37,7 @@
 - [SVG](#svg)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vala](#vala)
 - [Zig](#zig)
 
 ## ASP.NET 
@@ -96,6 +97,7 @@
 
 ## Go 
 
+- [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -208,6 +210,7 @@
 
 ## Others 
 
+- [TempMeow/RootDetectionApps](https://github.com/TempMeow/RootDetectionApps) - This repository provides a curated collection of the latest root detection and system modification apps.
 - [notjuliet/awesome-bluesky](https://github.com/notjuliet/awesome-bluesky) - A list of tools and clients available for the Bluesky platform
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -271,6 +274,7 @@
 
 ## Python 
 
+- [AngelinaAngel/Awesome-Linux-Software](https://github.com/AngelinaAngel/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [bunnykek/kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader!
@@ -299,7 +303,7 @@
 - [nabilanavab/ilovepdf](https://github.com/nabilanavab/ilovepdf) - Telegram Bot that helps you to convert Images to pdf, pdf to images, 45+ file formats to pdf, more features Soon..
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024 with HikerAPI SaaS
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -368,6 +372,7 @@
 
 ## TypeScript 
 
+- [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [KazariEX/plain-shiki](https://github.com/KazariEX/plain-shiki) - Highlight your plaintext via Shiki.
 - [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
@@ -396,6 +401,10 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [EliteMasterEric/Teyvat.moe](https://github.com/EliteMasterEric/Teyvat.moe) - A flexible, community-driven interactive website for Genshin Impact.
+
+## Vala 
+
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 
 ## Zig 
 
