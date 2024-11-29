@@ -432,6 +432,7 @@
 
 ## dotfiles 
 
+- [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
 - [alexjercan/hyprland.dotfiles](https://github.com/alexjercan/hyprland.dotfiles) - Minimalist config for Hyprland
 - [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
 - [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku
@@ -673,6 +674,7 @@
 
 ## linux 
 
+- [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
@@ -759,6 +761,7 @@
 
 ## neovim 
 
+- [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 
