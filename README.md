@@ -353,6 +353,7 @@
 
 ## Shell 
 
+- [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
 - [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [alexjercan/hyprland.dotfiles](https://github.com/alexjercan/hyprland.dotfiles) - Minimalist config for Hyprland
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributi
