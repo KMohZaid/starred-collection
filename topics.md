@@ -815,6 +815,7 @@
 
 ## others 
 
+- [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
 - [AngelinaAngel/Awesome-Linux-Software](https://github.com/AngelinaAngel/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [TempMeow/RootDetectionApps](https://github.com/TempMeow/RootDetectionApps) - This repository provides a curated collection of the latest root detection and system modification apps.
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
