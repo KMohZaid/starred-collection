@@ -818,6 +818,8 @@
 
 ## others 
 
+- [luiz734/dotfiles](https://github.com/luiz734/dotfiles) - My personal dotfiles
+- [luiz734/swaync-widgets](https://github.com/luiz734/swaync-widgets) - A tool for dynamically updating swaync config files based on states
 - [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - OmniGen: Unified Image Generation. https://arxiv.org/pdf/2409.11340
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
 - [AngelinaAngel/Awesome-Linux-Software](https://github.com/AngelinaAngel/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
