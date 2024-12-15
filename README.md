@@ -206,7 +206,7 @@
 
 ## Nix 
 
-- [Andrey0189/nixos-config](https://github.com/Andrey0189/nixos-config) - ❄️ My nixos configuration files
+- [Andrey0189/nixos-config](https://github.com/Andrey0189/nixos-config) - ❄️ My old NixOS configuration files
 - [FruitieX/home.nix](https://github.com/FruitieX/home.nix) - Home Manager configuration files
 - [qwbarch/nix-config](https://github.com/qwbarch/nix-config) - My personal NixOS configuration
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
