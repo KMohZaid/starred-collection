@@ -206,6 +206,8 @@
 
 ## Nix 
 
+- [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a hyprland dotfiles configuration
+- [Cu3PO42/gleaming-glacier](https://github.com/Cu3PO42/gleaming-glacier) - These are my dotfiles. There are many like it, but these ones are mine.
 - [Ashe/dotfiles](https://github.com/Ashe/dotfiles) - Config files for my Linux environment.
 - [Andrey0189/nixos-config](https://github.com/Andrey0189/nixos-config) - ❄️ My old NixOS configuration files
 - [FruitieX/home.nix](https://github.com/FruitieX/home.nix) - Home Manager configuration files
@@ -395,7 +397,7 @@
 - [ardeora/solid-toast](https://github.com/ardeora/solid-toast) - Customizable Toast Notifications for SolidJS
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [mbahArip/next-gdrive-index](https://github.com/mbahArip/next-gdrive-index) - Google Drive index built with Next.js for easier sharing files to public.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
