@@ -818,6 +818,7 @@
 
 ## others 
 
+- [ishare2-org/labhub.eu.org](https://github.com/ishare2-org/labhub.eu.org) - LabHub's repository source code. Forked from spencerwooo/onedrive-vercel-index and adapted to our needs.
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a hyprland dotfiles configuration
 - [Cu3PO42/gleaming-glacier](https://github.com/Cu3PO42/gleaming-glacier) - These are my dotfiles. There are many like it, but these ones are mine.
 - [Ashe/dotfiles](https://github.com/Ashe/dotfiles) - Config files for my Linux environment.
