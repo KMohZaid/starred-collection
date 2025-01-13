@@ -681,6 +681,7 @@
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -818,6 +819,7 @@
 
 ## others 
 
+- [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [ishare2-org/labhub.eu.org](https://github.com/ishare2-org/labhub.eu.org) - LabHub's repository source code. Forked from spencerwooo/onedrive-vercel-index and adapted to our needs.
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a hyprland dotfiles configuration
 - [Cu3PO42/gleaming-glacier](https://github.com/Cu3PO42/gleaming-glacier) - These are my dotfiles. There are many like it, but these ones are mine.
@@ -840,7 +842,6 @@
 - [KazariEX/plain-shiki](https://github.com/KazariEX/plain-shiki) - Highlight your plaintext via Shiki.
 - [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributi
 - [harishnkr/bsol](https://github.com/harishnkr/bsol) - grub2 blue-screen-of-life theme
 - [sometimes-archives-things/archived-things](https://github.com/sometimes-archives-things/archived-things) - 
 - [bunnykek/kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader!
