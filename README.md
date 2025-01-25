@@ -15,6 +15,7 @@
 - [CodeQL](#codeql)
 - [Dart](#dart)
 - [EJS](#ejs)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -95,6 +96,10 @@
 ## EJS 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+
+## Fluent 
+
+- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
 
 ## Go 
 
@@ -206,6 +211,7 @@
 
 ## Nix 
 
+- [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a hyprland dotfiles configuration
 - [Cu3PO42/gleaming-glacier](https://github.com/Cu3PO42/gleaming-glacier) - These are my dotfiles. There are many like it, but these ones are mine.
 - [Ashe/dotfiles](https://github.com/Ashe/dotfiles) - Config files for my Linux environment.
@@ -339,6 +345,8 @@
 
 ## Rust 
 
+- [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - [PROOF OF CONCEPT - NOT FOR EVERYDAY USE] Universal linux launcher for anime games
+- [an-anime-team/anime-launcher-sdk](https://github.com/an-anime-team/anime-launcher-sdk) - Anime Game Launcher development SDK
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
