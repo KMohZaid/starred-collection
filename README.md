@@ -195,6 +195,7 @@
 
 ## Lua 
 
+- [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
 - [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
@@ -211,6 +212,7 @@
 
 ## Nix 
 
+- [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a hyprland dotfiles configuration
 - [Cu3PO42/gleaming-glacier](https://github.com/Cu3PO42/gleaming-glacier) - These are my dotfiles. There are many like it, but these ones are mine.
