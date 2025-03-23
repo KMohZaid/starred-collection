@@ -352,6 +352,7 @@
 
 ## Rust 
 
+- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - [PROOF OF CONCEPT - NOT FOR EVERYDAY USE] Universal linux launcher for anime games
 - [an-anime-team/anime-launcher-sdk](https://github.com/an-anime-team/anime-launcher-sdk) - Anime Game Launcher development SDK
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -397,6 +398,7 @@
 
 ## TypeScript 
 
+- [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [cloudflare/orange](https://github.com/cloudflare/orange) - 
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [ishare2-org/labhub.eu.org](https://github.com/ishare2-org/labhub.eu.org) - LabHub's repository source code. Forked from spencerwooo/onedrive-vercel-index and adapted to our needs.
