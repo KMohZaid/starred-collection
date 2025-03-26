@@ -76,6 +76,7 @@
 
 ## CSS 
 
+- [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 - [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
