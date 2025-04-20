@@ -893,7 +893,7 @@
 - [torlye/Backloggery-enhancements](https://github.com/torlye/Backloggery-enhancements) - 
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [cognitive-engineering-lab/rust-book](https://github.com/cognitive-engineering-lab/rust-book) - The Rust Programming Language: Experimental Edition
 - [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
