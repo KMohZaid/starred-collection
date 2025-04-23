@@ -137,6 +137,7 @@
 - [sqlite](#sqlite)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
@@ -1169,6 +1170,13 @@
 - [xorgram/xor](https://github.com/xorgram/xor) - User bot. Redefined.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+
+## telegram-bot 
+
+- [The-Osint-Toolbox/Telegram-OSINT](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
+- [nabilanavab/ilovepdf](https://github.com/nabilanavab/ilovepdf) - Telegram Bot that helps you to convert Images to pdf, pdf to images, 45+ file formats to pdf, more features Soon..
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
+- [xorgram/xor](https://github.com/xorgram/xor) - User bot. Redefined.
 
 ## terminal 
 
