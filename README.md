@@ -233,7 +233,7 @@
 
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
-- [TempMeow/RootDetectionApps](https://github.com/TempMeow/RootDetectionApps) - This repository provides a curated collection of the latest root detection and system modification apps.
+- [MeowDump/RootDetectionApps](https://github.com/MeowDump/RootDetectionApps) - This repository provides a curated collection of the latest root detection and system modification apps.
 - [notjuliet/awesome-bluesky](https://github.com/notjuliet/awesome-bluesky) - A list of tools and clients available for the Bluesky platform
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
