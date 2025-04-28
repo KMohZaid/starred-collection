@@ -103,6 +103,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [osint](#osint)
@@ -828,6 +829,10 @@
 
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 
+## obsidian-plugin 
+
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+
 ## open-source 
 
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
@@ -911,7 +916,6 @@
 - [chaozhong2010/HRSID](https://github.com/chaozhong2010/HRSID) - HRSID: high resolution sar images dataset for ship detection, semantic segmentation, and instance segmentation tasks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [justchokingaround/jerry](https://github.com/justchokingaround/jerry) - watch anime with automatic anilist syncing and other cool stuff
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
