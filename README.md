@@ -356,7 +356,7 @@
 
 ## Rust 
 
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - [PROOF OF CONCEPT - NOT FOR EVERYDAY USE] Universal linux launcher for anime games
 - [an-anime-team/anime-launcher-sdk](https://github.com/an-anime-team/anime-launcher-sdk) - Anime Game Launcher development SDK
