@@ -407,6 +407,7 @@
 
 ## TypeScript 
 
+- [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [cloudflare/orange](https://github.com/cloudflare/orange) - 
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
