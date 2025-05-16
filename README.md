@@ -438,7 +438,7 @@
 - [xorgram/xor](https://github.com/xorgram/xor) - User bot. Redefined.
 - [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [EliteMasterEric/Teyvat.moe](https://github.com/EliteMasterEric/Teyvat.moe) - A flexible, community-driven interactive website for Genshin Impact.
 
 ## Vala 
