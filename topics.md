@@ -856,6 +856,8 @@
 
 ## others 
 
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
+- [Andrey0189/nixos-config-reborn](https://github.com/Andrey0189/nixos-config-reborn) - ❄️ Ampersand's redesigned NixOS Config
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - 
 - [ImGajeed76/discountdb](https://github.com/ImGajeed76/discountdb) - 
