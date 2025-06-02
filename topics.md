@@ -316,6 +316,7 @@
 
 ## cli 
 
+- [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
