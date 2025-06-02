@@ -52,6 +52,7 @@
 
 ## C 
 
+- [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [Cqinux/cinux](https://github.com/Cqinux/cinux) - cqwrteur's fork of Linux kernel, rename it to Cinux
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
