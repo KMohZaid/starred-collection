@@ -127,6 +127,7 @@
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils) - Just another GD Bypass tool!
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [weibell/reverse-shell-generator](https://github.com/weibell/reverse-shell-generator) - Web-based reverse shell generator
@@ -165,7 +166,6 @@
 - [solidjs-community/made-in-solid](https://github.com/solidjs-community/made-in-solid) - SolidJS Portfolio — What have people built with it?
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [LOLBAS-Project/LOLBAS-Project.github.io](https://github.com/LOLBAS-Project/LOLBAS-Project.github.io) - 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -239,7 +239,6 @@
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [MeowDump/RootDetectionApps](https://github.com/MeowDump/RootDetectionApps) - This repository provides a curated collection of the latest root detection and system modification apps.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [harishnkr/bsol](https://github.com/harishnkr/bsol) - grub2 blue-screen-of-life theme
 - [sometimes-archives-things/archived-things](https://github.com/sometimes-archives-things/archived-things) - 
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
@@ -389,6 +388,7 @@
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [luiz734/dotfiles](https://github.com/luiz734/dotfiles) - My personal dotfiles
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.
 - [alexjercan/hyprland.dotfiles](https://github.com/alexjercan/hyprland.dotfiles) - Minimalist config for Hyprland
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux
