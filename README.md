@@ -278,7 +278,7 @@
 ## PHP 
 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-- [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - 程江统一邮件发送管理系统
+- [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - 程江®统一邮件发送管理系统
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [ArdiArtani/Google-Drive-Player-Script](https://github.com/ArdiArtani/Google-Drive-Player-Script) - Grab google drive streaming links (redirector.googlevideo.com/videoplayback?..)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
