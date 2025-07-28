@@ -42,6 +42,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -327,6 +328,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## clojure 
@@ -420,6 +422,12 @@
 ## design 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## developer-tools 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## development 
 
@@ -893,6 +901,7 @@
 - [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - OmniGen: Unified Image Generation. https://arxiv.org/pdf/2409.11340
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
 - [AngelinaAngel/Awesome-Linux-Software](https://github.com/AngelinaAngel/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [MeowDump/RootDetectionApps](https://github.com/MeowDump/RootDetectionApps) - This repository provides a curated collection of the latest root detection and system modification apps.
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [Cqinux/cinux](https://github.com/Cqinux/cinux) - cqwrteur's fork of Linux kernel, rename it to Cinux
 - [Andrey0189/nixos-config](https://github.com/Andrey0189/nixos-config) - ❄️ My old NixOS configuration files
