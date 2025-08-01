@@ -152,6 +152,7 @@
 
 ## JavaScript 
 
+- [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
