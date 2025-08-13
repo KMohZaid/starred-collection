@@ -201,6 +201,7 @@
 
 ## Lua 
 
+- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
 - [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
@@ -363,7 +364,6 @@
 
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - [PROOF OF CONCEPT - NOT FOR EVERYDAY USE] Universal linux launcher for anime games
 - [an-anime-team/anime-launcher-sdk](https://github.com/an-anime-team/anime-launcher-sdk) - Anime Game Launcher development SDK
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
