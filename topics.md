@@ -52,6 +52,7 @@
 - [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
+- [emoji](#emoji)
 - [express](#express)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -488,6 +489,11 @@
 
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 
+## emoji 
+
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
+- [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
+
 ## express 
 
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
@@ -603,6 +609,7 @@
 
 ## hacktoberfest 
 
+- [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -1106,6 +1113,8 @@
 
 ## react 
 
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
+- [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1124,6 +1133,7 @@
 
 ## reactjs 
 
+- [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 - [EliteMasterEric/Teyvat.moe](https://github.com/EliteMasterEric/Teyvat.moe) - A flexible, community-driven interactive website for Genshin Impact.
 
 ## redux 
