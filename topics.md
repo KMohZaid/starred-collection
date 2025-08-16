@@ -163,7 +163,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -449,7 +448,7 @@
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self) - A fork of the popular discord.py for user accounts
-- [devraza/catchtwo](https://github.com/devraza/catchtwo) - A second generation, free Pokétwo autocatcher, made to stop people from wasting their money on 'premium' alternatives.
+- [devraza/catchtwo](https://github.com/devraza/catchtwo) - A second generation, free Pokétwo autocatcher. [Mirror]
 - [Team-BANERUS/poketwo-Autocatcher](https://github.com/Team-BANERUS/poketwo-Autocatcher) - Banerus poketwo autocatcher (Pokemon) is an innovative and user-friendly tool, equipped with a wide array of features. Setting it up with just one click allows you to effortlessly catch Pokémon, utili
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
@@ -1004,6 +1003,7 @@
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [apna-college/ReactJS](https://github.com/apna-college/ReactJS) - 
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) - Experimental IDE for building Android applicatons on Android.
@@ -1339,13 +1339,6 @@
 ## zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## zsh 
-
-- [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
-- [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 
 ## License
