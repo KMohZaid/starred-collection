@@ -343,7 +343,7 @@
 - [sanjit-sinha/Bhadoo-Index-Scraper](https://github.com/sanjit-sinha/Bhadoo-Index-Scraper) - script to scrape direct download links (ddls) from google drive index.
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina) - Codebase to generate an msdt-follina payload
-- [devraza/catchtwo](https://github.com/devraza/catchtwo) - A second generation, free Pokétwo autocatcher, made to stop people from wasting their money on 'premium' alternatives.
+- [devraza/catchtwo](https://github.com/devraza/catchtwo) - A second generation, free Pokétwo autocatcher. [Mirror]
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
