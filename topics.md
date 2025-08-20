@@ -108,6 +108,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -869,6 +870,12 @@
 
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 
+## obsidian-md 
+
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
+- [primary-theme/obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
+
 ## obsidian-plugin 
 
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
@@ -969,7 +976,6 @@
 - [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - 程江®统一邮件发送管理系统
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
-- [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 - [solidjs-community/made-in-solid](https://github.com/solidjs-community/made-in-solid) - SolidJS Portfolio — What have people built with it?
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [ardeora/solid-toast](https://github.com/ardeora/solid-toast) - Customizable Toast Notifications for SolidJS
@@ -994,7 +1000,6 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [rendiix/termux-adb-fastboot](https://github.com/rendiix/termux-adb-fastboot) - android adb-fastboot tools for termux
 - [sanjit-sinha/Bhadoo-Index-Scraper](https://github.com/sanjit-sinha/Bhadoo-Index-Scraper) - script to scrape direct download links (ddls) from google drive index.
-- [primary-theme/obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 - [Undisclosed64/DSA-Problems](https://github.com/Undisclosed64/DSA-Problems) - 
 - [arunpt/tginfo-api](https://github.com/arunpt/tginfo-api) - 
 - [Abbas-Khann/100Days-100JavaScript-React-Projects](https://github.com/Abbas-Khann/100Days-100JavaScript-React-Projects) - Javascript-React Projects from basic to Intermediate for learning purposes
