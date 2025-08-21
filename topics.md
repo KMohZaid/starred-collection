@@ -213,7 +213,7 @@
 
 ## archlinux 
 
-- [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
+- [ahmad9059/HyprFlux](https://github.com/ahmad9059/HyprFlux) - My dotfiles of Linux Environment
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 
@@ -476,7 +476,7 @@
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
 - [alexjercan/hyprland.dotfiles](https://github.com/alexjercan/hyprland.dotfiles) - Minimalist config for Hyprland
-- [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
+- [ahmad9059/HyprFlux](https://github.com/ahmad9059/HyprFlux) - My dotfiles of Linux Environment
 - [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
 
 ## education 
@@ -738,7 +738,7 @@
 - [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
-- [ahmad9059/dotfiles](https://github.com/ahmad9059/dotfiles) - My dotfiles of Linux Environment
+- [ahmad9059/HyprFlux](https://github.com/ahmad9059/HyprFlux) - My dotfiles of Linux Environment
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arc
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
