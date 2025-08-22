@@ -78,7 +78,7 @@
 ## CSS 
 
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
-- [ahmad9059/HyprFlux](https://github.com/ahmad9059/HyprFlux) - My dotfiles of Linux Environment
+- [ahmad9059/HyprFlux](https://github.com/ahmad9059/HyprFlux) - HyprFlux : Minimal, productive, elegant, and fast
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
