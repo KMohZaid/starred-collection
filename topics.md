@@ -198,7 +198,7 @@
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -713,7 +713,7 @@
 
 - [OMZigak/KKUM_ANDROID](https://github.com/OMZigak/KKUM_ANDROID) - Android를 뒤집어보겠습니다! 으으으읏! 얍! (╯°□°)╯︵ pᴉoɹpuⱯ
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 
 ## kubernetes 
@@ -794,7 +794,7 @@
 
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## minecraft 
@@ -996,7 +996,6 @@
 - [kevinjycui/bad-apple](https://github.com/kevinjycui/bad-apple) - Code from my Bad Apple!! YouTube videos
 - [TahaGorme/slashy](https://github.com/TahaGorme/slashy) - Undetectable Dank Memer (Selfbot) Farmer / Grinder with slash commands support which grinds 24/7  has and random delays  to avoid any suspicion.
 - [doki-theme/doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) - Cute anime character themes for VS-Code.
-- [qqqil/ebooks](https://github.com/qqqil/ebooks) - books
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [rendiix/termux-adb-fastboot](https://github.com/rendiix/termux-adb-fastboot) - android adb-fastboot tools for termux
 - [sanjit-sinha/Bhadoo-Index-Scraper](https://github.com/sanjit-sinha/Bhadoo-Index-Scraper) - script to scrape direct download links (ddls) from google drive index.
