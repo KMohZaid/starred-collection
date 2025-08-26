@@ -298,6 +298,7 @@
 
 ## Python 
 
+- [TheAxes/Advance-Auto-Owo](https://github.com/TheAxes/Advance-Auto-Owo) - A Epic OwO Bot Selfbot, which can bypass ban by solving any captcha [ web or imagetotext ]
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
