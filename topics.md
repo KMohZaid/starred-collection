@@ -443,6 +443,7 @@
 
 ## discord 
 
+- [TheAxes/Advance-Auto-Owo](https://github.com/TheAxes/Advance-Auto-Owo) - A Epic OwO Bot Selfbot, which can bypass ban by solving any captcha [ web or imagetotext ]
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
