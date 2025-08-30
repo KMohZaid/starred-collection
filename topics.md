@@ -308,7 +308,6 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [yudax42/askai](https://github.com/yudax42/askai) - Command Line Interface for OpenAi ChatGPT
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
 
@@ -893,7 +892,6 @@
 ## openai 
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-- [yudax42/askai](https://github.com/yudax42/askai) - Command Line Interface for OpenAi ChatGPT
 
 ## osint 
 
