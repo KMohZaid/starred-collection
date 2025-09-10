@@ -84,6 +84,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -723,6 +724,10 @@
 
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 
+## kali-linux 
+
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
+
 ## kotlin 
 
 - [OMZigak/KKUM_ANDROID](https://github.com/OMZigak/KKUM_ANDROID) - Android를 뒤집어보겠습니다! 으으으읏! 얍! (╯°□°)╯︵ pᴉoɹpuⱯ
@@ -1333,6 +1338,7 @@
 
 ## website 
 
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
 
 ## windows 
