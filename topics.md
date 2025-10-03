@@ -635,6 +635,7 @@
 - [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
+- [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
