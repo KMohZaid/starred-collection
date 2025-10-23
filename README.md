@@ -310,7 +310,6 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [bunnykek/kuku-dl](https://github.com/bunnykek/kuku-dl) - Kuku FM downloader!
-- [ChefAdorous/warp-plus](https://github.com/ChefAdorous/warp-plus) - You can obtain unlimited WARP+ referral data on Cloudflare's 1.1.1.1 VPN.
 - [techwithanirudh/g4f](https://github.com/techwithanirudh/g4f) - The official gpt4free repository | various collection of powerful language models
 - [kimocoder/OneShot](https://github.com/kimocoder/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
