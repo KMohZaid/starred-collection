@@ -137,6 +137,7 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -1169,6 +1170,10 @@
 ## qt 
 
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+
+## rag 
+
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 
 ## raspberry-pi 
 
