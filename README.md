@@ -38,6 +38,7 @@
 - [SVG](#svg)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Zig](#zig)
@@ -135,7 +136,7 @@
 
 ## Java 
 
-- [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
+- [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -413,6 +414,11 @@
 ## Svelte 
 
 - [ImGajeed76/discountdb](https://github.com/ImGajeed76/discountdb) - 
+
+## Swift 
+
+- [Nyasami/Ksign](https://github.com/Nyasami/Ksign) - The "cleaner" Esign app.
+- [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
 
 ## TypeScript 
 
