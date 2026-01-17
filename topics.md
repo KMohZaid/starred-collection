@@ -267,7 +267,7 @@
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [palashmon/awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of the latest posts, blogs and repositories related to JavaScript.
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
@@ -287,7 +287,7 @@
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [palashmon/awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of the latest posts, blogs and repositories related to JavaScript.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -598,7 +598,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [tq-bit/dev-cheatsheets](https://github.com/tq-bit/dev-cheatsheets) - 1-pagers that help you plan and develop your next project. Topics include git and docker.
 
 ## github-api 
