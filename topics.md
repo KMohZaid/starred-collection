@@ -979,6 +979,7 @@
 
 ## others 
 
+- [Snowball-01/pyropatch](https://github.com/Snowball-01/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
@@ -988,8 +989,8 @@
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [Andrey0189/nixos-config-reborn](https://github.com/Andrey0189/nixos-config-reborn) - ❄️ Ampersand's redesigned NixOS Config
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
-- [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - 
-- [ImGajeed76/discountdb](https://github.com/ImGajeed76/discountdb) - 
+- [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - Open-source Go backend API for DiscountDB - a coupon and discount database with PostgreSQL and Redis.
+- [ImGajeed76/discountdb](https://github.com/ImGajeed76/discountdb) - A community-driven open-source database for discount coupons and deals. Freely available to help everyone save money through accessible open data.
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - [PROOF OF CONCEPT - NOT FOR EVERYDAY USE] Universal linux launcher for anime games
