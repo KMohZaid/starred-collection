@@ -111,7 +111,7 @@
 ## Go 
 
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
-- [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - 
+- [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - Open-source Go backend API for DiscountDB - a coupon and discount database with PostgreSQL and Redis.
 - [luiz734/swaync-widgets](https://github.com/luiz734/swaync-widgets) - A tool for dynamically updating swaync config files based on states
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -301,6 +301,7 @@
 
 ## Python 
 
+- [Snowball-01/pyropatch](https://github.com/Snowball-01/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs
 - [TheAxes/Advance-Auto-Owo](https://github.com/TheAxes/Advance-Auto-Owo) - A Epic OwO Bot Selfbot, which can bypass ban by solving any captcha [ web or imagetotext ]
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -415,7 +416,7 @@
 
 ## Svelte 
 
-- [ImGajeed76/discountdb](https://github.com/ImGajeed76/discountdb) - 
+- [ImGajeed76/discountdb](https://github.com/ImGajeed76/discountdb) - A community-driven open-source database for discount coupons and deals. Freely available to help everyone save money through accessible open data.
 
 ## Swift 
 
