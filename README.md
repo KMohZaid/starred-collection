@@ -235,7 +235,7 @@
 - [FruitieX/home.nix](https://github.com/FruitieX/home.nix) - Home Manager configuration files
 - [qwbarch/nix-config](https://github.com/qwbarch/nix-config) - My personal NixOS configuration
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
-- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
+- [linuxmobile/shin](https://github.com/linuxmobile/shin) - A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of your creative core.
 
 ## Others 
 
