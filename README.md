@@ -303,6 +303,8 @@
 
 ## Python 
 
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
+- [Mak5er/Downloader-Bot](https://github.com/Mak5er/Downloader-Bot) - Social media downloader Bot on Telegram
 - [Snowball-01/pyropatch](https://github.com/Snowball-01/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs
 - [TheAxes/Advance-Auto-Owo](https://github.com/TheAxes/Advance-Auto-Owo) - A Epic OwO Bot Selfbot, which can bypass ban by solving any captcha [ web or imagetotext ]
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -446,7 +448,7 @@
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [yudax42/askai](https://github.com/yudax42/askai) - Command Line Interface for OpenAi ChatGPT
 - [ardeora/solid-toast](https://github.com/ardeora/solid-toast) - Customizable Toast Notifications for SolidJS
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
