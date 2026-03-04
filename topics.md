@@ -60,6 +60,7 @@
 - [electron](#electron)
 - [emoji](#emoji)
 - [express](#express)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -552,6 +553,10 @@
 ## express 
 
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
+
+## fastapi 
+
+- [ra83205/google-bard-api](https://github.com/ra83205/google-bard-api) - This project provides a FastAPI wrapper for interacting with Google Bard, a conversational AI by Google. It allows users to send messages to Google Bard and receive responses through a simple API.
 
 ## firefox 
 
