@@ -1128,6 +1128,7 @@
 
 ## postgresql 
 
+- [narsibhati-dev/CoSketch](https://github.com/narsibhati-dev/CoSketch) - CoSketch is a real-time collaborative drawing application built using Turborepo and Bun as the package manager. It includes separate apps for the frontend, backend API, and WebSocket server to enable 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## powershell 
