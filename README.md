@@ -54,6 +54,7 @@
 
 ## C 
 
+- [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - A To-do app with a Cute Face
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [Cqinux/cinux](https://github.com/Cqinux/cinux) - cqwrteur's fork of Linux kernel, rename it to Cinux
@@ -428,6 +429,7 @@
 
 ## TypeScript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Better Fullstack is the fork of Better-t-stack offering more Typescript libraries, support of Rust, Go and Python and much more in the Future!
 - [narsibhati-dev/CoSketch](https://github.com/narsibhati-dev/CoSketch) - CoSketch is a real-time collaborative drawing application built using Turborepo and Bun as the package manager. It includes separate apps for the frontend, backend API, and WebSocket server to enable 
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
