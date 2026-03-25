@@ -368,6 +368,7 @@
 
 ## cli 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Better Fullstack is the fork of Better-t-stack offering more Typescript libraries, support of Rust, Go and Python and much more in the Future!
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
@@ -682,6 +683,7 @@
 
 ## hacktoberfest 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
@@ -921,6 +923,7 @@
 
 ## nextjs 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [mbahArip/next-gdrive-index](https://github.com/mbahArip/next-gdrive-index) - Google Drive index built with Next.js for easier sharing files to public.
@@ -996,6 +999,7 @@
 
 ## others 
 
+- [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - A To-do app with a Cute Face
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [Snowball-01/pyropatch](https://github.com/Snowball-01/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
@@ -1341,6 +1345,7 @@
 
 ## tailwindcss 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
@@ -1399,6 +1404,7 @@
 
 ## typescript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Better Fullstack is the fork of Better-t-stack offering more Typescript libraries, support of Rust, Go and Python and much more in the Future!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
