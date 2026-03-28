@@ -438,7 +438,7 @@
 - [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
 - [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
-- [cloudflare/orange](https://github.com/cloudflare/orange) - 
+- [cloudflare/meet](https://github.com/cloudflare/meet) - 
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [ishare2-org/labhub.eu.org](https://github.com/ishare2-org/labhub.eu.org) - LabHub's repository source code. Forked from spencerwooo/onedrive-vercel-index and adapted to our needs.
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
