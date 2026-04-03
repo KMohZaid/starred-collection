@@ -446,7 +446,6 @@
 - [cloudflare/meet](https://github.com/cloudflare/meet) - 
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [ishare2-org/labhub.eu.org](https://github.com/ishare2-org/labhub.eu.org) - LabHub's repository source code. Forked from spencerwooo/onedrive-vercel-index and adapted to our needs.
-- [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [KazariEX/plain-shiki](https://github.com/KazariEX/plain-shiki) - Highlight your plaintext via Shiki.
 - [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
