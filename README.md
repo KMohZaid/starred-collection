@@ -305,6 +305,7 @@
 
 ## Python 
 
+- [KurimuzonAkuma/Kurimuzon-Userbot](https://github.com/KurimuzonAkuma/Kurimuzon-Userbot) - Userbot for telegram with easiest installation
 - [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Calls
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [Mak5er/Downloader-Bot](https://github.com/Mak5er/Downloader-Bot) - Social media downloader Bot on Telegram
