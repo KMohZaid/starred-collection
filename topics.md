@@ -934,6 +934,7 @@
 
 ## neovim 
 
+- [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
 - [4rtemis-4rrow/dotfiles](https://github.com/4rtemis-4rrow/dotfiles) - 
@@ -1023,6 +1024,7 @@
 
 ## others 
 
+- [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [KurimuzonAkuma/Kurimuzon-Userbot](https://github.com/KurimuzonAkuma/Kurimuzon-Userbot) - Userbot for telegram with easiest installation
 - [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - A To-do app with a Cute Face
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
