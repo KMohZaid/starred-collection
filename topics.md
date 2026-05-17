@@ -1024,6 +1024,7 @@
 
 ## others 
 
+- [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [KurimuzonAkuma/Kurimuzon-Userbot](https://github.com/KurimuzonAkuma/Kurimuzon-Userbot) - Userbot for telegram with easiest installation
 - [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - A To-do app with a Cute Face
