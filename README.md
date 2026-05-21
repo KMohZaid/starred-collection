@@ -54,7 +54,7 @@
 
 ## C 
 
-- [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - A To-do app with a Cute Face
+- [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - to-do list with a cute face
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [Cqinux/cinux](https://github.com/Cqinux/cinux) - cqwrteur's fork of Linux kernel, rename it to Cinux
