@@ -1029,7 +1029,7 @@
 - [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [KurimuzonAkuma/Kurimuzon-Userbot](https://github.com/KurimuzonAkuma/Kurimuzon-Userbot) - Userbot for telegram with easiest installation
-- [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - A To-do app with a Cute Face
+- [lloyd-december/tabbie](https://github.com/lloyd-december/tabbie) - to-do list with a cute face
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [Snowball-01/pyropatch](https://github.com/Snowball-01/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
