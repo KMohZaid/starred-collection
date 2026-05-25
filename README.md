@@ -136,6 +136,7 @@
 
 ## Java 
 
+- [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
