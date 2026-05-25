@@ -1026,6 +1026,7 @@
 
 ## others 
 
+- [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [KurimuzonAkuma/Kurimuzon-Userbot](https://github.com/KurimuzonAkuma/Kurimuzon-Userbot) - Userbot for telegram with easiest installation
