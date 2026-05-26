@@ -31,6 +31,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [QML](#qml)
 - [Ruby](#ruby)
@@ -127,7 +128,6 @@
 
 ## HTML 
 
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils) - Just another GD Bypass tool!
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -304,6 +304,10 @@
 ## PowerShell 
 
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
+
+## PureBasic 
+
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 
 ## Python 
 
