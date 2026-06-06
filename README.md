@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - Open-source Go backend API for DiscountDB - a coupon and discount database with PostgreSQL and Redis.
 - [luiz734/swaync-widgets](https://github.com/luiz734/swaync-widgets) - A tool for dynamically updating swaync config files based on states
