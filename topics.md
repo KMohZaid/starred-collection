@@ -319,6 +319,7 @@
 
 ## bash 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode) - Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.
@@ -1360,6 +1361,7 @@
 
 ## shell 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [weibell/reverse-shell-generator](https://github.com/weibell/reverse-shell-generator) - Web-based reverse shell generator
