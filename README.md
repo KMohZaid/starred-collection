@@ -184,7 +184,7 @@
 - [Team-BANERUS/poketwo-Autocatcher](https://github.com/Team-BANERUS/poketwo-Autocatcher) - Banerus poketwo autocatcher (Pokemon) is an innovative and user-friendly tool, equipped with a wide array of features. Setting it up with just one click allows you to effortlessly catch Pokémon, utili
 - [apna-college/ReactJS](https://github.com/apna-college/ReactJS) - 
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## Jupyter Notebook 
