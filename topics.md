@@ -707,6 +707,7 @@
 
 ## hacktoberfest 
 
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
@@ -1033,6 +1034,7 @@
 
 ## others 
 
+- [NextAlone/Nnngram](https://github.com/NextAlone/Nnngram) - Another gram by NextAlone
 - [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
@@ -1473,6 +1475,7 @@
 
 ## userscript 
 
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
 
 ## video 
