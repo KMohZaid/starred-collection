@@ -337,7 +337,7 @@
 ## bot 
 
 - [lykoss/lykos](https://github.com/lykoss/lykos) - Werewolf, the popular detective/social party game (a theme of Mafia)
-- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
+- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A elegantly enhanced Telegram Bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl 
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [The-Osint-Toolbox/Telegram-OSINT](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -1034,6 +1034,7 @@
 
 ## others 
 
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 - [NextAlone/Nnngram](https://github.com/NextAlone/Nnngram) - Another gram by NextAlone
 - [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
@@ -1221,7 +1222,7 @@
 
 ## python 
 
-- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
+- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A elegantly enhanced Telegram Bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl 
 - [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Calls
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
