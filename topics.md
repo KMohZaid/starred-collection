@@ -94,6 +94,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
+- [js](#js)
 - [json](#json)
 - [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
@@ -444,6 +445,7 @@
 
 ## css 
 
+- [fajarghifar/happybirthday](https://github.com/fajarghifar/happybirthday) - 🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
@@ -743,6 +745,7 @@
 
 ## html 
 
+- [fajarghifar/happybirthday](https://github.com/fajarghifar/happybirthday) - 🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
 
@@ -811,6 +814,10 @@
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+
+## js 
+
+- [fajarghifar/happybirthday](https://github.com/fajarghifar/happybirthday) - 🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.
 
 ## json 
 
