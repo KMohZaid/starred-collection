@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [fajarghifar/happybirthday](https://github.com/fajarghifar/happybirthday) - 🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.
 - [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
