@@ -418,6 +418,7 @@
 
 ## Shell 
 
+- [gaurav23b/simple-hyprland](https://github.com/gaurav23b/simple-hyprland) - A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips,
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
