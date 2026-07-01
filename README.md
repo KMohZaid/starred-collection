@@ -180,7 +180,6 @@
 - [LOLBAS-Project/LOLBAS-Project.github.io](https://github.com/LOLBAS-Project/LOLBAS-Project.github.io) - 
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [scriptlabs-cc/slashy](https://github.com/scriptlabs-cc/slashy) - Undetectable Dank Memer (Selfbot) Farmer / Grinder with slash commands support which grinds 24/7  has and random delays  to avoid any suspicion.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [arunpt/tginfo-api](https://github.com/arunpt/tginfo-api) - 
 - [Abbas-Khann/100Days-100JavaScript-React-Projects](https://github.com/Abbas-Khann/100Days-100JavaScript-React-Projects) - Javascript-React Projects from basic to Intermediate for learning purposes
