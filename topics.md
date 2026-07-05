@@ -1055,6 +1055,7 @@
 
 ## others 
 
+- [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [gaurav23b/simple-hyprland](https://github.com/gaurav23b/simple-hyprland) - A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips,
 - [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 - [NextAlone/Nnngram](https://github.com/NextAlone/Nnngram) - Another gram by NextAlone
