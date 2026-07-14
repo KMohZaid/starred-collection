@@ -174,6 +174,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -202,6 +203,7 @@
 
 ## ai 
 
+- [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
@@ -454,7 +456,7 @@
 - [fajarghifar/happybirthday](https://github.com/fajarghifar/happybirthday) - 🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
-- [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
+- [ClearVision/OLD-ClearVision-v6](https://github.com/ClearVision/OLD-ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
@@ -531,7 +533,7 @@
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) - Discord Rich Presence for Neovim (Fork of presence.nvim)
-- [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
+- [ClearVision/OLD-ClearVision-v6](https://github.com/ClearVision/OLD-ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self) - A fork of the popular discord.py for user accounts
 - [devraza/catchtwo](https://github.com/devraza/catchtwo) - A second generation, free Pokétwo autocatcher. [Mirror]
@@ -774,7 +776,6 @@
 
 - [Mak5er/Downloader-Bot](https://github.com/Mak5er/Downloader-Bot) - Social media downloader Bot on Telegram
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 
 ## ios 
 
@@ -905,6 +906,7 @@
 
 ## machine-learning 
 
+- [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
 - [ra83205/google-bard-api](https://github.com/ra83205/google-bard-api) - This project provides a FastAPI wrapper for interacting with Google Bard, a conversational AI by Google. It allows users to send messages to Google Bard and receive responses through a simple API.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -1201,7 +1203,7 @@
 
 ## postgresql 
 
-- [narsibhati-dev/CoSketch](https://github.com/narsibhati-dev/CoSketch) - CoSketch is a real-time collaborative drawing application built using Turborepo and Bun as the package manager. It includes separate apps for the frontend, backend API, and WebSocket server to enable 
+- [narsixyz/CoSketch](https://github.com/narsixyz/CoSketch) - CoSketch is a real-time collaborative drawing application built using Turborepo and Bun as the package manager. It includes separate apps for the frontend, backend API, and WebSocket server to enable 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## powershell 
@@ -1464,6 +1466,10 @@
 ## testing 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+## text-to-speech 
+
+- [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
 
 ## tui 
 
