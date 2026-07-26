@@ -1075,7 +1075,7 @@
 
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [gaurav23b/simple-hyprland](https://github.com/gaurav23b/simple-hyprland) - A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips,
-- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [NextAlone/Nnngram](https://github.com/NextAlone/Nnngram) - Another gram by NextAlone
 - [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
