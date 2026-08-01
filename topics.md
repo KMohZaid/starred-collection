@@ -281,6 +281,7 @@
 
 ## awesome 
 
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
@@ -303,6 +304,7 @@
 
 ## awesome-list 
 
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
