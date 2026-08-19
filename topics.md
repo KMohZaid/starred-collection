@@ -1078,6 +1078,7 @@
 
 ## others 
 
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
 - [kingsizew/badges](https://github.com/kingsizew/badges) - 
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
@@ -1605,6 +1606,7 @@
 
 ## youtube 
 
+- [nullcpy/rvb](https://github.com/nullcpy/rvb) - Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...
 - [Mak5er/Downloader-Bot](https://github.com/Mak5er/Downloader-Bot) - Social media downloader Bot on Telegram
 - [TheAxes/Advance-Auto-Owo](https://github.com/TheAxes/Advance-Auto-Owo) - A Epic OwO Bot Selfbot, which can bypass ban by solving any captcha [ web or imagetotext ]
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
