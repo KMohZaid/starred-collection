@@ -273,7 +273,7 @@
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [The-Osint-Toolbox/Telegram-OSINT](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [iamavu/pandora](https://github.com/iamavu/pandora) - Hack+
@@ -355,6 +355,7 @@
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [aestilog/Amenoma](https://github.com/aestilog/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
@@ -408,7 +409,6 @@
 ## SCSS 
 
 - [ClearVision/OLD-ClearVision-v6](https://github.com/ClearVision/OLD-ClearVision-v6) - Highly customizable theme for BetterDiscord.
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## SVG 
 
@@ -452,7 +452,7 @@
 ## TypeScript 
 
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
-- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
