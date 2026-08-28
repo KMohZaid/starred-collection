@@ -73,6 +73,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [gaming](#gaming)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -640,6 +641,10 @@
 ## gaming 
 
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
+
+## gis 
+
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 
 ## git 
 
