@@ -341,7 +341,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [Johannes11833/rclone_python](https://github.com/Johannes11833/rclone_python) - rclone python wrapper
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [GONZOsint/gvision](https://github.com/GONZOsint/gvision) - GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.
 - [tukaan/tukaan](https://github.com/tukaan/tukaan) - Contemporary GUI framework for Python based on the ancient Tcl/Tk
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
