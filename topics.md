@@ -237,6 +237,7 @@
 
 ## android 
 
+- [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [OMZigak/KKUM_ANDROID](https://github.com/OMZigak/KKUM_ANDROID) - Android를 뒤집어보겠습니다! 으으으읏! 얍! (╯°□°)╯︵ pᴉoɹpuⱯ
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
@@ -1063,6 +1064,7 @@
 
 ## open-source 
 
+- [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
