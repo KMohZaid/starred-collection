@@ -249,6 +249,7 @@
 
 ## Others 
 
+- [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
 - [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
 - [kingsizew/badges](https://github.com/kingsizew/badges) - 
 - [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime) - The repo that everyone deserves
