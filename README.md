@@ -455,6 +455,7 @@
 
 ## TypeScript 
 
+- [danielxxomg/opencode-commandcode-provider](https://github.com/danielxxomg/opencode-commandcode-provider) - ⚡ Production-ready Command Code provider for OpenCode (v1 & v2) — 67+ models, real-time auto-discovery, smart retry with jitter, and Plan Mode context
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
 - [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
