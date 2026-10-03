@@ -108,7 +108,6 @@
 
 ## Fluent 
 
-- [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
 
 ## Go 
@@ -461,6 +460,7 @@
 - [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
+- [LyoSU/quote-bot](https://github.com/LyoSU/quote-bot) - Telegram quote bot
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
 - [narsixyz/CoSketch](https://github.com/narsixyz/CoSketch) - CoSketch is a real-time collaborative drawing application built using Turborepo and Bun as the package manager. It includes separate apps for the frontend, backend API, and WebSocket server to enable 
