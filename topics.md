@@ -240,6 +240,7 @@
 ## android 
 
 - [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [OMZigak/KKUM_ANDROID](https://github.com/OMZigak/KKUM_ANDROID) - Android를 뒤집어보겠습니다! 으으으읏! 얍! (╯°□°)╯︵ pᴉoɹpuⱯ
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
@@ -283,6 +284,7 @@
 ## automation 
 
 - [yigitkonur/auto-approve-claude-plan](https://github.com/yigitkonur/auto-approve-claude-plan) - auto-approve Claude Code plans instantly — optional Craft.do archiving
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Tahoe support!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
@@ -1099,7 +1101,6 @@
 
 ## others 
 
-- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
 - [kingsizew/badges](https://github.com/kingsizew/badges) - 
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
