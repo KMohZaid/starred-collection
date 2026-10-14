@@ -454,6 +454,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [danielxxomg/opencode-commandcode-provider](https://github.com/danielxxomg/opencode-commandcode-provider) - ⚡ Production-ready Command Code provider for OpenCode (v1 & v2) — 67+ models, real-time auto-discovery, smart retry with jitter, and Plan Mode context
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
