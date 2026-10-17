@@ -1217,7 +1217,6 @@
 - [aestilog/Amenoma](https://github.com/aestilog/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
 - [kevinjycui/bad-apple](https://github.com/kevinjycui/bad-apple) - Code from my Bad Apple!! YouTube videos
 - [doki-theme/doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) - Cute anime character themes for VS-Code.
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [rendiix/termux-adb-fastboot](https://github.com/rendiix/termux-adb-fastboot) - android adb-fastboot tools for termux
 - [sanjit-sinha/Bhadoo-Index-Scraper](https://github.com/sanjit-sinha/Bhadoo-Index-Scraper) - script to scrape direct download links (ddls) from google drive index.
 - [Undisclosed64/DSA-Problems](https://github.com/Undisclosed64/DSA-Problems) - 
