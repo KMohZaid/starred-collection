@@ -1116,6 +1116,7 @@
 
 ## others 
 
+- [alexpua/oci-arm-catcher](https://github.com/alexpua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
 - [kingsizew/badges](https://github.com/kingsizew/badges) - 
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
