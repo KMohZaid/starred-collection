@@ -424,6 +424,7 @@
 
 ## cli 
 
+- [oracle/oci-cli](https://github.com/oracle/oci-cli) - Command Line Interface for Oracle Cloud Infrastructure
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yigitkonur/auto-approve-claude-plan](https://github.com/yigitkonur/auto-approve-claude-plan) - auto-approve Claude Code plans instantly — optional Craft.do archiving
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -447,6 +448,8 @@
 
 ## cloud 
 
+- [Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer) - This script ensures your Oracle Cloud Always Free instance maintains a minimum CPU and RAM usage to avoid deactivation due to inactivity.
+- [oracle/oci-cli](https://github.com/oracle/oci-cli) - Command Line Interface for Oracle Cloud Infrastructure
 - [Johannes11833/rclone_python](https://github.com/Johannes11833/rclone_python) - rclone python wrapper
 
 ## cms 
