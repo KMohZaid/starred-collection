@@ -62,6 +62,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -605,6 +606,13 @@
 ## dotnet 
 
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
+
+## downloader 
+
+- [Mak5er/Downloader-Bot](https://github.com/Mak5er/Downloader-Bot) - Social media downloader Bot on Telegram
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
