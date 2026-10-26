@@ -315,6 +315,7 @@
 
 ## Python 
 
+- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.
 - [Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer) - This script ensures your Oracle Cloud Always Free instance maintains a minimum CPU and RAM usage to avoid deactivation due to inactivity.
 - [oracle/oci-cli](https://github.com/oracle/oci-cli) - Command Line Interface for Oracle Cloud Infrastructure
 - [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
@@ -420,6 +421,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [alexpua/oci-arm-catcher](https://github.com/alexpua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
 - [yigitkonur/auto-approve-claude-plan](https://github.com/yigitkonur/auto-approve-claude-plan) - auto-approve Claude Code plans instantly — optional Craft.do archiving
 - [nullcpy/rvb](https://github.com/nullcpy/rvb) - Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...
@@ -457,6 +459,8 @@
 
 ## TypeScript 
 
+- [cglremrcn/pixlings](https://github.com/cglremrcn/pixlings) - A pixel creature that lives above your Claude Code prompt: prompt cache countdown, wakes Claude when your limit resets, sound on every OS, and an eye roll for every "You're absolutely right".
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [danielxxomg/opencode-commandcode-provider](https://github.com/danielxxomg/opencode-commandcode-provider) - ⚡ Production-ready Command Code provider for OpenCode (v1 & v2) — 67+ models, real-time auto-discovery, smart retry with jitter, and Plan Mode context
