@@ -1135,7 +1135,7 @@
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [alexpua/oci-arm-catcher](https://github.com/alexpua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
+- [deeplabua/oci-arm-catcher](https://github.com/deeplabua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
 - [lucaboox/nuvio-web](https://github.com/lucaboox/nuvio-web) - Nuvio Web — an installable PWA client for Nuvio: profiles, addons, catalogs, collections and playback, synced with the same backend as the desktop and mobile apps.
 - [kingsizew/badges](https://github.com/kingsizew/badges) - 
 - [Asymons/stremio-account-manager](https://github.com/Asymons/stremio-account-manager) - 
