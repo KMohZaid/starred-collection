@@ -315,6 +315,8 @@
 
 ## Python 
 
+- [Zulut30/premium-telegram-emoji](https://github.com/Zulut30/premium-telegram-emoji) - Verified Telegram custom emoji catalog and portable Agent Skill. Meaning-aware selection, stable application styles, Windows/macOS/Linux.
+- [abbosahmad/telegram-premium-emojis](https://github.com/abbosahmad/telegram-premium-emojis) - The complete toolkit & AI Agent Skill for Telegram Bot Premium Custom Emojis, Aiogram 3 card UI, inline button custom emoji icons, and pack scanning.
 - [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.
 - [Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer) - This script ensures your Oracle Cloud Always Free instance maintains a minimum CPU and RAM usage to avoid deactivation due to inactivity.
 - [oracle/oci-cli](https://github.com/oracle/oci-cli) - Command Line Interface for Oracle Cloud Infrastructure
