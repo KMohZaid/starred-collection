@@ -131,7 +131,6 @@
 
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils) - Just another GD Bypass tool!
-- [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [weibell/reverse-shell-generator](https://github.com/weibell/reverse-shell-generator) - Web-based reverse shell generator
 - [palashmon/awesome-js-posts](https://github.com/palashmon/awesome-js-posts) - A curated list of the latest posts, blogs and repositories related to JavaScript.
@@ -249,6 +248,7 @@
 
 ## Others 
 
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
 - [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
 - [kingsizew/badges](https://github.com/kingsizew/badges) - 
@@ -296,6 +296,7 @@
 ## PHP 
 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+- [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Full-featured Social Engineering Framework with Page Cloning, MITM Proxy, Credential Capture, Session Extraction, and Real-time Monitoring.
 - [SMTPHub/SMTPHub](https://github.com/SMTPHub/SMTPHub) - 程江®统一邮件发送管理系统
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [ArdiArtani/Google-Drive-Player-Script](https://github.com/ArdiArtani/Google-Drive-Player-Script) - Grab google drive streaming links (redirector.googlevideo.com/videoplayback?..)
@@ -315,6 +316,7 @@
 
 ## Python 
 
+- [Paretofilm/superpowers-gstack](https://github.com/Paretofilm/superpowers-gstack) - How to use Superpowers and GStack together with Claude Code. Workflow manual, routing plugin, and CLAUDE.md generator. Use both frameworks — each in the phase where it excels.
 - [Zulut30/premium-telegram-emoji](https://github.com/Zulut30/premium-telegram-emoji) - Verified Telegram custom emoji catalog and portable Agent Skill. Meaning-aware selection, stable application styles, Windows/macOS/Linux.
 - [abbosahmad/telegram-premium-emojis](https://github.com/abbosahmad/telegram-premium-emojis) - The complete toolkit & AI Agent Skill for Telegram Bot Premium Custom Emojis, Aiogram 3 card UI, inline button custom emoji icons, and pack scanning.
 - [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.
