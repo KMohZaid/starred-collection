@@ -403,6 +403,7 @@
 
 ## Rust 
 
+- [kurigram-org/kuricrypt](https://github.com/kurigram-org/kuricrypt) - Fast and Portable Cryptography Extension Library for Kurigram
 - [deeplabua/oci-arm-catcher](https://github.com/deeplabua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
