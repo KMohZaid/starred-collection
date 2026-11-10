@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [ImGajeed76/discountdb-api](https://github.com/ImGajeed76/discountdb-api) - Open-source Go backend API for DiscountDB - a coupon and discount database with PostgreSQL and Redis.
@@ -155,6 +156,8 @@
 
 ## JavaScript 
 
+- [maurodesouza/github-readme-activity-graph-action](https://github.com/maurodesouza/github-readme-activity-graph-action) - 📈 Generate beautiful and fully customizable GitHub activity graphs directly from GitHub Actions, automatically publishing SVG cards ready to showcase your coding journey in any README 🚀
+- [gh-metrics/metrics](https://github.com/gh-metrics/metrics) - (Maintenance Mode) 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Yumcoder-dev/yumgram](https://github.com/Yumcoder-dev/yumgram) - unofficial telegram web client
 - [fajarghifar/happybirthday](https://github.com/fajarghifar/happybirthday) - 🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
@@ -403,6 +406,7 @@
 
 ## Rust 
 
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [kurigram-org/kuricrypt](https://github.com/kurigram-org/kuricrypt) - Fast and Portable Cryptography Extension Library for Kurigram
 - [deeplabua/oci-arm-catcher](https://github.com/deeplabua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
