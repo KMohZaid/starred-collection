@@ -55,6 +55,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [deployment](#deployment)
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [development](#development)
@@ -254,6 +255,7 @@
 
 ## android 
 
+- [Reiux/lumen-android](https://github.com/Reiux/lumen-android) - Open-source Android app for backing up photos and videos to Google Photos in full original quality.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
 - [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
@@ -571,6 +573,10 @@
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [xorgram/xor](https://github.com/xorgram/xor) - User bot. Redefined.
+
+## deployment 
+
+- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 
 ## design 
 
@@ -1138,6 +1144,7 @@
 
 ## open-source 
 
+- [Reiux/lumen-android](https://github.com/Reiux/lumen-android) - Open-source Android app for backing up photos and videos to Google Photos in full original quality.
 - [Star-Trowa/heliboard-themes](https://github.com/Star-Trowa/heliboard-themes) - Custom HeliBoard/LeanType keyboard themes - Catppuccin, Rose Piné, Cyberpunk, Neon, and more (because the default ones weren't enough)
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
@@ -1434,6 +1441,7 @@
 
 ## react 
 
+- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
