@@ -408,6 +408,7 @@
 
 ## Rust 
 
+- [Reiux/Lumen](https://github.com/Reiux/Lumen) - A Material 3 Expressive redesign of gotohp, an unofficial desktop uploader for Google Photos.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [kurigram-org/kuricrypt](https://github.com/kurigram-org/kuricrypt) - Fast and Portable Cryptography Extension Library for Kurigram
 - [deeplabua/oci-arm-catcher](https://github.com/deeplabua/oci-arm-catcher) - Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — auto-retries the launch until your instance is created. macOS, Linux & Windows.
