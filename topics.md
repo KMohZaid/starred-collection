@@ -788,6 +788,7 @@
 
 ## gui 
 
+- [Reiux/Lumen](https://github.com/Reiux/Lumen) - A Material 3 Expressive redesign of gotohp, an unofficial desktop uploader for Google Photos.
 - [tukaan/tukaan](https://github.com/tukaan/tukaan) - Contemporary GUI framework for Python based on the ancient Tcl/Tk
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 
@@ -1036,6 +1037,7 @@
 
 ## material-design 
 
+- [Reiux/Lumen](https://github.com/Reiux/Lumen) - A Material 3 Expressive redesign of gotohp, an unofficial desktop uploader for Google Photos.
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
@@ -1494,6 +1496,7 @@
 
 ## rust 
 
+- [Reiux/Lumen](https://github.com/Reiux/Lumen) - A Material 3 Expressive redesign of gotohp, an unofficial desktop uploader for Google Photos.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
@@ -1638,6 +1641,7 @@
 
 ## typescript 
 
+- [Reiux/Lumen](https://github.com/Reiux/Lumen) - A Material 3 Expressive redesign of gotohp, an unofficial desktop uploader for Google Photos.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
