@@ -8,6 +8,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -225,6 +226,7 @@
 
 ## ai 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [danielxxomg/opencode-commandcode-provider](https://github.com/danielxxomg/opencode-commandcode-provider) - ⚡ Production-ready Command Code provider for OpenCode (v1 & v2) — 67+ models, real-time auto-discovery, smart retry with jitter, and Plan Mode context
 - [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web) - 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!
@@ -235,8 +237,13 @@
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
 
+## ai-agent 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
 ## ai-agents 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 
 ## algorithm 
@@ -413,6 +420,7 @@
 
 ## chatgpt 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -431,6 +439,7 @@
 
 ## claude 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [cglremrcn/pixlings](https://github.com/cglremrcn/pixlings) - A pixel creature that lives above your Claude Code prompt: prompt cache countdown, wakes Claude when your limit resets, sound on every OS, and an eye roll for every "You're absolutely right".
 - [danielxxomg/opencode-commandcode-provider](https://github.com/danielxxomg/opencode-commandcode-provider) - ⚡ Production-ready Command Code provider for OpenCode (v1 & v2) — 67+ models, real-time auto-discovery, smart retry with jitter, and Plan Mode context
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
@@ -438,6 +447,7 @@
 
 ## claude-code 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Paretofilm/superpowers-gstack](https://github.com/Paretofilm/superpowers-gstack) - How to use Superpowers and GStack together with Claude Code. Workflow manual, routing plugin, and CLAUDE.md generator. Use both frameworks — each in the phase where it excels.
 - [Zulut30/premium-telegram-emoji](https://github.com/Zulut30/premium-telegram-emoji) - Verified Telegram custom emoji catalog and portable Agent Skill. Meaning-aware selection, stable application styles, Windows/macOS/Linux.
 - [cglremrcn/pixlings](https://github.com/cglremrcn/pixlings) - A pixel creature that lives above your Claude Code prompt: prompt cache countdown, wakes Claude when your limit resets, sound on every OS, and an eye roll for every "You're absolutely right".
@@ -991,6 +1001,7 @@
 
 ## llm 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [danielxxomg/opencode-commandcode-provider](https://github.com/danielxxomg/opencode-commandcode-provider) - ⚡ Production-ready Command Code provider for OpenCode (v1 & v2) — 67+ models, real-time auto-discovery, smart retry with jitter, and Plan Mode context
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
@@ -1156,6 +1167,7 @@
 
 ## openai 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [yudax42/askai](https://github.com/yudax42/askai) - Command Line Interface for OpenAi ChatGPT
