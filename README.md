@@ -326,6 +326,7 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Paretofilm/superpowers-gstack](https://github.com/Paretofilm/superpowers-gstack) - How to use Superpowers and GStack together with Claude Code. Workflow manual, routing plugin, and CLAUDE.md generator. Use both frameworks — each in the phase where it excels.
 - [Zulut30/premium-telegram-emoji](https://github.com/Zulut30/premium-telegram-emoji) - Verified Telegram custom emoji catalog and portable Agent Skill. Meaning-aware selection, stable application styles, Windows/macOS/Linux.
 - [abbosahmad/telegram-premium-emojis](https://github.com/abbosahmad/telegram-premium-emojis) - The complete toolkit & AI Agent Skill for Telegram Bot Premium Custom Emojis, Aiogram 3 card UI, inline button custom emoji icons, and pack scanning.
