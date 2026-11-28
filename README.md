@@ -114,6 +114,8 @@
 
 ## Go 
 
+- [seirenkr/OGInstagram](https://github.com/seirenkr/OGInstagram) - Instagram embed proxy for Discord, Telegram, and anything that supports Open Graph or ActivityPub — rich previews with media, caption, and stats.
+- [Knoppiix/InstaEmbedRouter](https://github.com/Knoppiix/InstaEmbedRouter) - basically just a reverse-proxy to make Instagram posts embeds work consistently in Discord and Telegram.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
@@ -462,7 +464,7 @@
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
 - [rendiix/termux-adb-fastboot](https://github.com/rendiix/termux-adb-fastboot) - android adb-fastboot tools for termux
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 ## Svelte 
